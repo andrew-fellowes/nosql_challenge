@@ -14,4 +14,4 @@ Files
 ``` - Resources/establishments.json
 	- NoSQL_analysis_starter.ipynb
 	- NoSQL_setup_starter.ipynb
-	 -README.md```
+	 -README.md
